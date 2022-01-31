@@ -1,6 +1,6 @@
-discription  | markDown  |  html |
+| markDown  |  html | html & markDown تفاوت ساختاری |
 |---|---|---|
- diffrent of .md file and html syntax heading test  |  ## heading test |  <h2>heading test</h2> |
- diffrent of .md file and html syntax bold text   |  ** this text is bold ** | <strong>this text is bold</strong>  |
-diffrent of .md file and html syntax italic text  |  _this text is italic_ |  <i>this text is italic</i> |
-diffrent of .md file and html syntax images in text  |  1. in this paragraph you will see ![image]( url ) image. |  <img src="..."> |
+|  ## heading test |  <h2>heading test</h2> | ساختار نوشتن سرتیترها |
+|  ** this text is bold ** | <strong>this text is bold</strong>  | bold متن |
+|  _this text is italic_ |  <i>this text is italic</i> | مورب شدن متون یا بخشی از متن |
+|  1. in this paragraph you will see ![image]( url ) image. | this is our image: <img src="..."> | بکار بردن تصاویر در متون |
