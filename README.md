@@ -8,7 +8,7 @@
 
 # Gimp
 
-**Gimp stand of GNU Image Mnipulation. Is a cross platform image editor for GNU/Linux, Windows, Mac OS oprations system.
+**Gimp Stands Of GNU Image Mnipulation. Is a cross platform image editor for GNU/Linux, Windows, Mac OS oprations system.
 is Open-source, its means we can access to source code project**
 
 ### Lets do some tutorial in Gimp: 
