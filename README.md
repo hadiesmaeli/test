@@ -10,7 +10,7 @@
 
 - ابتدا فایل VBoxGuestAddition.iso رو بر اساس version ماشین مجازیتون از این صفحه دانلود کنید http://download.virtualbox.org/virtualbox    
 
--بعد از دانلود در پوشه ی sharedfoler کپیش کنید.
+- بعد از دانلود در پوشه ی sharedfoler کپیش کنید.
 - قبل از نصب کردن GuestAddition باید پکیج های gcc, make, perl رو حتما نصب کنید.
 - در آخر فایل VBoxGuestAddition.iso رو نصب کنید.
 
