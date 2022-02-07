@@ -6,6 +6,14 @@
 |  1. in this paragraph you will see ![image]( url ) image. | this is our image: <img src="..."> | بکار بردن تصاویر در متون |
 
 
+# نصب VBoxGuestAddition
+
+- ابتدا فایل VBoxGuestAddition.iso رو بر اساس version ماشین مجازیتون از این صفحه دانلود کنید http://download.virtualbox.org/virtualbox    
+
+-بعد از دانلود در پوشه ی sharedfoler کپیش کنید.
+-قبل از نصب کردن GuestAddition باید پکیج های gcc, make, perl رو حتما نصب کنید.
+-در آخر فایل VBoxGuestAddition.iso رو نصب کنید.
+
 # Gimp
 
 **Gimp Stands Of GNU Image Mnipulation. Is a cross platform image editor for GNU/Linux, Windows, Mac OS oprations system.
